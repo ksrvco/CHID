@@ -1,0 +1,17 @@
+mail
+mail1
+mail2
+mailhost
+mailin
+mailsync
+main
+mainguard
+maladies-animales
+maladies-professionnelles
+maladiesanimales
+manp
+manw
+ns1
+ns2
+www
+voip
